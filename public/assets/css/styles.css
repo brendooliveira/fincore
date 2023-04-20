@@ -11,3 +11,25 @@
     transition: 0.5s;
     color: #ffc107;
 }
+
+/* SECTION HEADER START */
+
+.section_sub_cta_p
+{
+    font-weight: 500;
+    font-size: 1.3em;
+}
+
+.section_cta_h2
+{
+    font-weight: 700;
+    font-size: 3.5em;
+}
+
+.section_cta_h3
+{
+    font-weight: 700;
+    font-size: 3em;
+}
+
+/* SECTION HEADER END */
