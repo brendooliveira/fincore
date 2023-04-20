@@ -6,6 +6,13 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+/* NAV START */
+.bg-dark
+{
+    background-color: #1a1a1a !important;
+}
+/* NAV END */
+
 .hover-warning:hover
 {
     transition: 0.5s;
@@ -33,3 +40,44 @@
 }
 
 /* SECTION HEADER END */
+
+/* SECTION ABOUT START */
+.section_cta_about
+{
+    /* background-position: right;
+    background-repeat: no-repeat;
+    background-size: auto !important;*/
+    background: url('../../img/bg.png'), linear-gradient(90deg, rgba(26,26,26,1) 0%, rgba(26,26,26,1) 100%, rgba(26,26,26,1) 100%); 
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+
+.section_cta_about_body
+{
+    padding: 140px 20px;
+}
+
+.section_cta_about_h2
+{
+    color: white;
+    font-weight: 700;
+    font-size: 3em;
+}
+
+.section_cta_about_sub
+{
+    font-weight: 500;
+    color: white;
+    font-size: 1.2em;
+}
+
+/* SECTION ABOUT END */
+/* SECTION TESTEMUNHOS START */
+
+.testemunhos_h2
+{
+    font-size: 3em;
+    font-weight: 700;
+    text-align: center;
+}
