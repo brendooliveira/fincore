@@ -10,6 +10,7 @@
     },
     "require": {
         "brdev/router": "^1.2",
-        "jenssegers/blade": "^1.4"
+        "jenssegers/blade": "^1.4",
+        "brdev/sessions": "^1.0"
     }
 }
